@@ -396,6 +396,13 @@ In order to bypass Sophos during the runtime execution, it is necessary to use a
 
 Even though we used a very basic code for injecting the raw Shellcode in a local memory process with RWX permission (bad OPSEC), we still managed to bypass modern detections. Utilizing a highly customized and advanced Cobalt Strike profile can prove to be an effective strategy for evading detection by EDR solutions and antivirus software, to such an extent that the encryption of shellcode may become unnecessary. With the ability to tailor the Cobalt Strike profile to specific environments, threat actors gain a powerful advantage in bypassing traditional security measures.
 
+---
+Author of the SourcePoint project 
+
+Github - @Tylous  Twitter - @Tyl0us
+---
+
+
 ## THE NOTE
 This article is for informational purposes only. We do not encourage you to commit any hacking. Everything you do is your responsibility.
 
